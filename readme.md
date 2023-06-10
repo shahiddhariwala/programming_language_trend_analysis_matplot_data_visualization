@@ -17,7 +17,7 @@ To get started with the examples and tutorials in this repository, follow these 
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/shahiddhariwala/programming_language_trend_analysis_matplot_data_visualization
    ```
 
 2. Install the required dependencies, including Matplotlib and Pandas, by running the following command:
